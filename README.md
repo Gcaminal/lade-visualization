@@ -101,10 +101,6 @@ La primera ejecución tarda unos minutos por la descarga. Las siguientes ejecuci
 - **Periodo:** Mayo–Octubre 2022
 - **Escala:** 10.67M paquetes, 21K repartidores, 5 ciudades
 
-## Autor
-
-Gerard Caminal — Visualización de datos — UOC 2024/25
-
 ## Licencia
 
 Este proyecto está bajo la licencia Apache 2.0. Ver [LICENSE](LICENSE) para más detalles.
