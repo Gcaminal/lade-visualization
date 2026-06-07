@@ -50,7 +50,7 @@ lade-visualization/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/lade-visualization.git
+git clone https://github.com/Gcaminal/lade-visualization.git
 cd lade-visualization
 ```
 
