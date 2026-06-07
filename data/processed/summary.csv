@@ -1,0 +1,4 @@
+city,total_deliveries,unique_couriers,unique_regions,unique_aoi,avg_duration_min,median_duration_min,p25_duration,p75_duration,avg_distance_km,median_distance_km,date_min,date_max
+Shanghai,1477138,1731,52,15550,104.6,72.0,43.0,119.0,2.94,1.7,2022-05-01,2022-10-31
+Hangzhou,1845964,1385,51,17691,149.4,115.0,61.0,195.0,3.22,1.86,2022-05-01,2022-10-31
+Yantai,203412,203,17,7749,242.4,205.0,113.0,338.0,12.45,4.13,2022-05-01,2022-10-31
