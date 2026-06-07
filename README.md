@@ -16,9 +16,7 @@ Análisis comparativo de la eficiencia logística de última milla en tres ciuda
 
 La visualización interactiva está publicada en Tableau Public:
 
-🔗 **[Enlace a la visualización](URL_TABLEAU_PUBLIC)**
-
-> Sustituir `URL_TABLEAU_PUBLIC` por el enlace real una vez publicada.
+https://github.com/Gcaminal/lade-visualization
 
 ## Estructura del repositorio
 
